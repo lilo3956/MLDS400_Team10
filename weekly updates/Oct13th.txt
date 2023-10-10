@@ -1,1 +1,4 @@
-Hi
+This week's goal:
+*Understanding the data
+-Checking the data
+-Visualization
